@@ -1,0 +1,21 @@
+{
+  "manifest_version":"1",
+  "type":"Skin",
+  "meta":{
+    "name":"Crescent: Sub-Zero",
+    "version":"1.1",
+    "minimum-overwolf-version": "0.84.0.1",
+    "author":"Tiamarth",
+    "description":"The Maximalist",
+    "icon": "icon.png"
+    },
+    "data": {
+      "components":[
+        "Dock",
+        "Sounds",
+        "Cursor"
+      ],
+      "games":[
+      ]
+    }
+  }

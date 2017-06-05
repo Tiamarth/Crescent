@@ -1,0 +1,21 @@
+{
+  "manifest_version":"1",
+  "type":"Skin",
+  "meta":{
+    "name":"Crescent: Arctic Blast",
+    "version":"2.03",
+    "minimum-overwolf-version": "0.84.0.1",
+    "author":"Tiamarth",
+    "description":"The Idealist",
+    "icon": "icon.png"
+    },
+    "data": {
+      "components":[
+        "Dock",
+        "Sounds",
+        "Cursor"
+      ],
+      "games":[
+      ]
+    }
+  }
