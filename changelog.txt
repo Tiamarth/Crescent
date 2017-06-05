@@ -1,0 +1,43 @@
+06/05/17
+
+- moved project to github
+
+05/20/15
+
+- updated file tree to work without overwriting official skins
+
+05/20/15 - Crescent: Sub-Zero 1.1
+
+- release
+
+05/20/15 - Crescent 3.0
+
+- updated skin to work with new Overwolf appstore
+
+- fixed the scroll bar overlapping with the main window when dock is placed on right side of screen
+
+- fixed the skin blending in with dark colours
+
+05/19/15 - 2.03
+
+- made mouse cursors pretty
+
+05/19/15 - 2.02
+
+- added mouse cursors
+
+05/19/15  - 2.01
+
+- fixed the scroll bar overlapping with the main window when dock is placed on right side of screen
+
+05/18/15
+
+- 2.0 release
+
+02/06/15
+
+- fixed the logo appearing to stack
+
+02/05/15
+
+- release
