@@ -9,18 +9,16 @@ The third isn't minmimal at all and is called Crescent: Sub Zero.
 
 ### Installation instructions:
 
-1. Navigate to: C:\Users\[username]\AppData\Local\Overwolf (open start menu, type %localappdata%, hit enter, open Overwolf folder)
-2. Create new folder. Name it "Skins."
-3. Open the zip package you downloaded.
-4. Drag the folder inside the zip into the Skins folder.
-5. Open your Overwolf settings dialogue.
-6. Open the Support menu.
-7. Click "Development Options."
-8. Click "Load unpacked extension..."
-9. Navigate to the skin you want to install, expand the folder.
-10. Select the version number.
-11. Press "OK."
-12. Load the skin from your Overwolf library.
+1. Navigate to: `C:\Users\[username]\AppData\Local\Overwolf\Extensions`
+2. Open the zip package you downloaded.
+3. Drag the folder inside the zip into the Extensions folder.
+4. Open your Overwolf settings dialogue.
+5. Open the Support menu.
+6. Click "Development Options."
+7. Click "Load unpacked extension..."
+8. Navigate to the skin you want to install, expand the folder.
+9. Select the folder inside the primary skin folder, e.g. select `crescent\3.0`
+10. Load the skin from your Overwolf library.
 
 ### Previews:
 
