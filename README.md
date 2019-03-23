@@ -1,8 +1,6 @@
 # Crescent
 A minimal skin for Overwolf with two consecutively less minimal variations.
 
-**Note:** This skin may not still work. I can no longer test it as Overwolf doesn't support Linux and does not run in Wine. If that changes in the future, or if I ever buy a Windows PC, I will pick this project back up.
-
 There are three variations of this skin. The first is minimal, simply called Crescent.  
 The second is less minimal, called Crescent: Arctic Blast.  
 The third isn't minmimal at all and is called Crescent: Sub Zero.
@@ -31,4 +29,4 @@ Crescent: Sub Zero: [preview](https://raw.githubusercontent.com/Tiamarth/Crescen
 
 Crescent: Sub Zero and Crescent: Arctic Blast both contain sounds obtained from [SoundJay.com.](http://www.soundjay.com/)
 
-[pre-github changelog](https://github.com/Tiamarth/Crescent/blob/master/changelog.txt) | [Crescent thread on the Overwolf forums](http://forums.overwolf.com/index.php?/topic/4084-crescent-30-the-minimalist-the-idealist-and-the-maximalist-now-without-overwriting-official-skins/)
+[pre-github changelog](https://github.com/Tiamarth/Crescent/blob/master/changelog.txt)
