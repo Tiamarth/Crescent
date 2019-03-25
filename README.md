@@ -7,7 +7,7 @@ The third isn't minmimal at all and is called Crescent: Sub Zero.
 
 ### Installation:
 
-Download the particular skin you want from `packages/packed` and double click it to automatically install it in Overwolf.
+Navigate to the ["release"](https://github.com/Tiamarth/Crescent/releases) tab and download the skin you want, then run the corresponding `.opk` file.
 
 ### Previews:
 
