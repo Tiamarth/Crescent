@@ -5,18 +5,9 @@ There are three variations of this skin. The first is minimal, simply called Cre
 The second is less minimal, called Crescent: Arctic Blast.  
 The third isn't minmimal at all and is called Crescent: Sub Zero.
 
-### Installation instructions:
+### Installation:
 
-1. Navigate to: `C:\Users\[username]\AppData\Local\Overwolf\Extensions`
-2. Open the zip package you downloaded.
-3. Drag the folder inside the zip into the Extensions folder.
-4. Open your Overwolf settings dialogue.
-5. Open the Support menu.
-6. Click "Development Options."
-7. Click "Load unpacked extension..."
-8. Navigate to the skin you want to install, expand the folder.
-9. Select the folder inside the primary skin folder, e.g. select `crescent\3.0`
-10. Load the skin from your Overwolf library.
+Download the particular skin you want from `packages/packed` and double click it to automatically install it in Overwolf.
 
 ### Previews:
 
